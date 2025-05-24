@@ -1,1 +1,1 @@
-"# XLM-RoBERTa-Telugu-Sentiment-Analaysis" 
+Sentiment Analysis for low resource language Telugu
