@@ -1,4 +1,4 @@
-# 🇮🇳 Telugu Sentiment Analysis using XLM-RoBERTa
+Telugu Sentiment Analysis using XLM-RoBERTa
 
 This project provides a fine-tuned **XLM-RoBERTa** model specifically for **Telugu sentiment analysis**.  
 It is built on a custom-labeled dataset derived from the **CC100 Telugu corpus**.
@@ -44,10 +44,12 @@ streamlit run app.py
 🔍 Demo
 Try the model in real time using our Streamlit web app (hosted on Streamlit Cloud).
 
-🔗 Live App: Coming Soon (or add the URL here)
+🔗 Live App: Coming Soon
 
 🧾 Example Predictions
+
 Input (Telugu)	Predicted Sentiment
+
 ఇది చాలా మంచి సినిమా	Positive
 కథ నన్ను ఆకట్టుకోలేదు	Negative
 సాధారణ చిత్రమే	Neutral
