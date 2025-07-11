@@ -6,8 +6,8 @@ import torch.nn.functional as F
 # Load model and tokenizer
 @st.cache_resource
 def load_model():
-    model = AutoModelForSequenceClassification.from_pretrained("xlm-roberta-sentiment-final")
-    tokenizer = AutoTokenizer.from_pretrained("xlm-roberta-sentiment-final", use_fast=False)
+    model = AutoModelForSequenceClassification.from_pretrained("Krihzak/Telugu-XLM-RoBERTa")
+    tokenizer = AutoTokenizer.from_pretrained("Krihzak/Telugu-XLM-RoBERTa", use_fast=False)
     return model, tokenizer
 
 model, tokenizer = load_model()
