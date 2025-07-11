@@ -28,7 +28,7 @@ It is built on a custom-labeled dataset derived from the **CC100 Telugu corpus**
 ## ❗ Model Files
 
 > Model files will be uploaded to Hugging Face later  
-> (or you can request them directly).
+https://huggingface.co/Krihzak/Telugu-XLM-RoBERTa
 
 ---
 
@@ -44,7 +44,6 @@ streamlit run app.py
 🔍 Demo
 Try the model in real time using our Streamlit web app (hosted on Streamlit Cloud).
 
-🔗 Live App: Coming Soon
 
 🧾 Example Predictions
 
